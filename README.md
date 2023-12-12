@@ -25,7 +25,7 @@ For the delete function, the user will be redirected to another new page I creat
 ### My Take Away
 #### I learned several hard lessons that will stick with me through out my new career. 
 - The importance of adequate sleep! You can not function well without adequate sleep.
-- Proper planning is a must! You absolutley need a plan. It doesn't have to be all encompassing but you need to have a rough structure of what you need to acomplish. Then break it down into bite size pieces and focus on one element at a time.
+- Proper planning is a must! You absolutely need a plan. It doesn't have to be all encompassing but you need to have a rough structure of what you need to acomplish. Then break it down into bite size pieces and focus on one element at a time.
 - You must use proper version control! Always check and see what branch you are in everytime you sit down in front of your screen.
 - It is OK to ask for help! I learned to ask for help when needed.
 #### Despite all the challenges, this project concluded successfully. I completed the project through story 5. I believe these experiences have provided me with genuine insights applicable to my future career. I can collaborate effectively, navigate version control competently, and overcome challenges with a strategic approach.
